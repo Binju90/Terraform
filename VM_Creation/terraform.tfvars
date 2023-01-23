@@ -7,7 +7,7 @@ tagging = {
   CostCenter = 123
   Org        = "TS"
 }
-rgname           = "RG11"
+rgname           = "RG12"
 location         = "East Us"
 pipname          = "Pip11"
 nsg              = "NSG1"
